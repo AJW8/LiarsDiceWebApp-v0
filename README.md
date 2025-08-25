@@ -1,4 +1,4 @@
-# LiarsDiceWebApp-v0
+# Liar's Dice Web App
 A web app for playing the classic bluffing game 'Liar's Dice'.  Features include online matchmaking/room joining and player/spectator mode.  Created with v0.
 
 *Automatically synced with your [v0.app](https://v0.app) deployments*
