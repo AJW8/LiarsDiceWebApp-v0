@@ -10,4 +10,4 @@ A web app for playing the classic bluffing game 'Liar's Dice'.  Features include
 
 Project is live at:
 
-**[https://vercel.com/aaronjw32-8869s-projects/v0-liar-s-dice](https://vercel.com/aaronjw32-8869s-projects/v0-liar-s-dice)**
+**https://v0.app/chat/liar-s-dice-gRBty73IMdN**
